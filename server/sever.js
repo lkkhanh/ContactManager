@@ -1,4 +1,4 @@
-const jsonServer = require('json-server');
+const jsonServer = require('server/package.json');
 const path = require('path');
 const express = require('express');
 
