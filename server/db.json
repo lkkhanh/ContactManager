@@ -1,0 +1,63 @@
+{
+  "contacts": [
+    {
+      "id": "AA@$12",
+      "name": "Kai",
+      "photo": "https://cdn.iconscout.com/icon/free/png-256/free-avatar-372-456324.png",
+      "mobile": "09000000",
+      "email": "Kai@gmail.com",
+      "title": "Me",
+      "company": "ABC Company",
+      "groupId": "1"
+    },
+    {
+      "id": "AA@@$12",
+      "name": "Hoa",
+      "photo": "https://cdn.iconscout.com/icon/free/png-256/free-avatar-369-456321.png",
+      "mobile": "01288888888",
+      "email": "Hoa@gmail.com",
+      "title": "Me",
+      "company": "AB Company",
+      "groupId": "4",
+      "moblie": "090"
+    },
+    {
+      "id": "4b7d",
+      "name": "Tre",
+      "photo": "https://cdn.iconscout.com/icon/free/png-256/free-avatar-370-456322.png",
+      "mobile": "091111111",
+      "email": "Tre@gmail.com",
+      "company": "Aribank",
+      "title": "emo",
+      "groupId": "2"
+    },
+    {
+      "id": "eb56",
+      "name": "Lâm Khánh Khánh",
+      "photo": "https://cdn.iconscout.com/icon/free/png-256/free-avatar-367-456319.png",
+      "mobile": "0935764258",
+      "email": "lkkhanh.2000@gmail.com",
+      "company": "No",
+      "title": "Tao",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Company"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Special"
+    }
+  ]
+}
